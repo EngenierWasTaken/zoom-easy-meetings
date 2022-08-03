@@ -2,7 +2,8 @@
 A simple python script for download meetings from zoom. have a huge room for improvements, feel free to use, modify and share
 
 WARNING this script was made just for fun.
-It works as of 2022-08-04 but can stop working anytime soon:
+It works as of 2022-08-04 but can stop working anytime soon.
+
 The code have almost 0 checks and follow no architecture schema,
 it is not even a side project so take it as it is.
 
